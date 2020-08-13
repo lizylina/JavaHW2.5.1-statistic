@@ -1,6 +1,6 @@
 # JaCoCo counters #
 
-### Instructions (C0 Coverage)###
+### Instructions (C0 Coverage)
 Наименьшая единица измерения JaCoCo - это инструкции Java-байт-кода. Счетчик Instruction предоставляет информацию о количестве кода, который был задействован тестами или пропущен.
 
 ### Branches (C1 Coverage)
